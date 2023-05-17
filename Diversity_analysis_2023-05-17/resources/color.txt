@@ -1,0 +1,29 @@
+Lineage	AY.44	#184a4a
+Lineage	AY.3	#ff9c18
+Lineage	AY.103	#414a83
+Lineage	AY.25.3	#b4529c
+Lineage	AY.43	#4a417b
+Lineage	AY.25.1	#627bb4
+Lineage	AY.25	#626262
+Lineage	AY.100	#cdb47b
+Lineage	BA.1.15	#5a4120
+Lineage	AY.20	#41b4ee
+Lineage	AY.39	#626a20
+Lineage	BA.1.20	#414a10
+Lineage	AY.47	#e67383
+Lineage	BA.1	#ffd552
+Lineage	B.1.617.2	#bdacc5
+Lineage	AY.119	#734a4a
+Lineage	BA.1.1	#ac0031
+Lineage	B.1.1	#733131
+Lineage	B.1	#ff8352
+		
+Campus	Yes	#394162
+Campus	NO	#cdcdd5
+		
+WHO_class	Omicron BA.2	#9c6a6a
+WHO_class	Omicron BA.1	#ff945a
+WHO_class	Omicron BA.4	#621000
+WHO_class	Omicron BA.5	#104a8b
+WHO_class	Omicron (other)	#bd4a73
+WHO_class	Delta	#de7329
